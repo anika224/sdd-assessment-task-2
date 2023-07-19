@@ -106,7 +106,7 @@ def translate_command():
         
     except Exception as e:
         messagebox.showerror("Translator", e)
-
+b
 
 #Create menu for translator
 my_menu = Menu(root)
