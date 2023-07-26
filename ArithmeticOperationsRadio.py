@@ -5,7 +5,7 @@ import textblob
 from tkinter import ttk, messagebox
 
 root = Tk()
-root.title("Arithmetic Operations")
+root.title("Summing Series")
 root.geometry("400x400")
 
 c = Canvas(root, width = 500, height = 500, bg = "Lavender")
